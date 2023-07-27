@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class ProductController extends Controller
 {
     public function get(){
-        
+        $gety = 0;
     }
 }
